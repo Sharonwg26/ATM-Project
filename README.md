@@ -28,11 +28,12 @@ by Python and SQL
  
   
 ## 三、	使用技術
-1.	SQLite
-  i.	CREATE
-  ii.	INSERT
-  iii.	SELECT
-  iv.	DELETE
-  v.	DROP
-2.	Random
-3.	Getpass
+### 1.	SQLite
+#### i.	CREATE
+#### ii.	INSERT
+#### iii.	SELECT
+#### iv.	DELETE
+#### v.	DROP
+  
+### 2.	Random
+### 3.	Getpass
